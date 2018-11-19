@@ -143,14 +143,14 @@ summary {
 
 @font-face {
 	font-family: "rockwell";
-	src: url('/static/fonts/Rockwell.eot?5a9914e89eff');
-	src: url('/static/fonts/Rockwell.eot?&5a9914e89eff#iefix') format('eot'), url('/static/fonts/Rockwell.woff?5a9914e89eff') format('woff'), url('/static/fonts/Rockwell.ttf?5a9914e89eff') format('truetype'), url('/static/fonts/Rockwell.svg?5a9914e89eff') format('svg')
+	src: url('/fonts/Rockwell.eot');
+	src: url('/fonts/Rockwell.eot') format('eot'), url('/fonts/Rockwell.woff') format('woff'), url('/fonts/Rockwell.ttf') format('truetype'), url('/fonts/Rockwell.svg) format('svg')
 }
 
 @font-face {
 	font-family: "rockwellb";
-	src: url('/static/fonts/Rockwell-Bold.eot?5a9914e89eff');
-	src: url('/static/fonts/Rockwell-Bold.eot?&5a9914e89eff#iefix') format('eot'), url('/static/fonts/Rockwell-Bold.woff?5a9914e89eff') format('woff'), url('/static/fonts/Rockwell-Bold.ttf?5a9914e89eff') format('truetype'), url('/static/fonts/Rockwell-Bold.svg?5a9914e89eff') format('svg')
+	src: url('/fonts/Rockwell-Bold.eot');
+	src: url('//fonts/Rockwell-Bold.eot') format('eot'), url('/fonts/Rockwell-Bold.woff') format('woff'), url('/fonts/Rockwell-Bold.ttf') format('truetype'), url('/fonts/Rockwell-Bold.svg') format('svg')
 }
 
 label,

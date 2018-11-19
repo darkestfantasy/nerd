@@ -978,14 +978,14 @@ main {
 		left: 0;
 		width: 231px;
 		height: 614px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -2232px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -2232px no-repeat
 	}
 
 	.landing-header:after {
 		right: 0;
 		width: 500px;
 		height: 614px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -1379px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -1379px no-repeat
 	}
 
 	.landing-header .wrapper1 {
@@ -1180,14 +1180,14 @@ main {
 		left: 0;
 		width: 231px;
 		height: 614px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -2232px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -2232px no-repeat
 	}
 
 	.whatsapp-header:after {
 		right: 0;
 		width: 500px;
 		height: 614px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -1379px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -1379px no-repeat
 	}
 
 	.whatsapp-header .wrapper1 {
@@ -1405,14 +1405,14 @@ main {
 		left: 0;
 		width: 231px;
 		height: 614px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -2232px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -2232px no-repeat
 	}
 
 	.fb-header:after {
 		right: 0;
 		width: 500px;
 		height: 614px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -1379px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -1379px no-repeat
 	}
 
 	.fb-header .wrapper1 {
@@ -1767,7 +1767,7 @@ main {
 		display: block;
 		width: 525px;
 		height: 89px;
-		background: url('/img/sprite-main-handhelds.png') 0 -2763px no-repeat;
+		background: url('./../img/sprite-main-handhelds.png') 0 -2763px no-repeat;
 		overflow: hidden;
 		text-indent: -999em;
 		margin: 25px 0 30px
@@ -2044,7 +2044,7 @@ main {
 	.phone-block .phone-form .whatsapp_me i {
 		width: 69px;
 		height: 69px;
-		background: url('/img/sprite-main-handhelds.png') 0 -2857px no-repeat;
+		background: url('./../img/sprite-main-handhelds.png') 0 -2857px no-repeat;
 		vertical-align: -18px
 	}
 }
@@ -2057,7 +2057,7 @@ main {
 	.phone-block .phone-form .whatsapp_me i {
 		width: 33px;
 		height: 33px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -4076px no-repeat;
+		background: url('./../img/sprite-main-wide-screens.png') 0 -4076px no-repeat;
 		vertical-align: -7px
 	}
 }
@@ -2097,7 +2097,7 @@ main {
 	body .phone-form-subscription .input-wrapper:before {
 		width: 48px;
 		height: 36px;
-		background: url('/img/sprite-main-handhelds.png') 0 -3111px no-repeat
+		background: url('./../img/sprite-main-handhelds.png') 0 -3111px no-repeat
 	}
 }
 
@@ -2107,7 +2107,7 @@ main {
 	body .phone-form-subscription .input-wrapper:before {
 		width: 39px;
 		height: 29px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -3573px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -3573px no-repeat
 	}
 }
 
@@ -2117,7 +2117,7 @@ main {
 	body.cc-ca .phone-form-subscription .input-wrapper:before {
 		width: 49px;
 		height: 36px;
-		background: url('/img/sprite-main-handhelds.png') 0 -3070px no-repeat
+		background: url('./../img/sprite-main-handhelds.png') 0 -3070px no-repeat
 	}
 }
 
@@ -2127,7 +2127,7 @@ main {
 	body.cc-ca .phone-form-subscription .input-wrapper:before {
 		width: 39px;
 		height: 28px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -3607px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -3607px no-repeat
 	}
 }
 
@@ -2139,7 +2139,7 @@ main {
 	body[class*=" l-ca"] .phone-form-subscription .input-wrapper:before {
 		width: 49px;
 		height: 36px;
-		background: url('/img/sprite-main-handhelds.png') 0 -3070px no-repeat
+		background: url('./../img/sprite-main-handhelds.png') 0 -3070px no-repeat
 	}
 }
 
@@ -2151,7 +2151,7 @@ main {
 	body[class*=" l-ca"] .phone-form-subscription .input-wrapper:before {
 		width: 39px;
 		height: 28px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -3607px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -3607px no-repeat
 	}
 }
 
@@ -2165,7 +2165,7 @@ main {
 	body.cc-au .phone-form-subscription .input-wrapper:before {
 		width: 49px;
 		height: 36px;
-		background: url('/img/sprite-main-handhelds.png') 0 -2722px no-repeat
+		background: url('./../img/sprite-main-handhelds.png') 0 -2722px no-repeat
 	}
 }
 
@@ -2179,7 +2179,7 @@ main {
 	body.cc-au .phone-form-subscription .input-wrapper:before {
 		width: 39px;
 		height: 28px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -3387px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -3387px no-repeat
 	}
 }
 
@@ -2225,7 +2225,7 @@ body.cc-au .phone-block .input-wrapper::after {
 	body.s-DE .phone-form-subscription .input-wrapper:before {
 		width: 48px;
 		height: 36px;
-		background: url('/img/sprite-main-handhelds.png') 0 -3637px no-repeat
+		background: url('./../img/sprite-main-handhelds.png') 0 -3637px no-repeat
 	}
 }
 
@@ -2235,7 +2235,7 @@ body.cc-au .phone-block .input-wrapper::after {
 	body.s-DE .phone-form-subscription .input-wrapper:before {
 		width: 39px;
 		height: 29px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -4328px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -4328px no-repeat
 	}
 }
 
@@ -2305,7 +2305,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: 0;
 		width: 152px;
 		height: 135px;
-		background: url('/img/sprite-main-handhelds.png') 0 -472px no-repeat
+		background: url('./../img/sprite-main-handhelds.png') 0 -472px no-repeat
 	}
 
 	.yes-no-block ul li.no-item:after {
@@ -2313,7 +2313,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		right: 0;
 		width: 134px;
 		height: 441px;
-		background: url('/img/sprite-main-handhelds.png') 0 -1756px no-repeat
+		background: url('./../img/sprite-main-handhelds.png') 0 -1756px no-repeat
 	}
 
 	.yes-no-block ul li.no-item .line span {
@@ -2330,7 +2330,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: 0;
 		width: 96px;
 		height: 257px;
-		background: url('/img/sprite-main-handhelds') 0 -1494px no-repeat
+		background: url('./../img/sprite-main-handhelds') 0 -1494px no-repeat
 	}
 
 	.yes-no-block ul li.yes-item:after {
@@ -2338,7 +2338,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		right: 0;
 		width: 64px;
 		height: 270px;
-		background: url('/img/sprite-main-handhelds') 0 -2325px no-repeat
+		background: url('./../img/sprite-main-handhelds') 0 -2325px no-repeat
 	}
 
 	.yes-no-block ul li.yes-item .line span {
@@ -2582,7 +2582,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.do-block .cell {
 		width: 516px;
 		height: 877px;
-		background: url('/img/sprite-main-handhelds.png') 0 -612px no-repeat;
+		background: url('./../img/sprite-main-handhelds.png') 0 -612px no-repeat;
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
@@ -2615,14 +2615,14 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: -80px;
 		width: 32px;
 		height: 102px;
-		background: url('/img/sprite-main-handhelds.png') 0 -3152px no-repeat
+		background: url('./../img/sprite-main-handhelds.png') 0 -3152px no-repeat
 	}
 
 	.do-block .carousel-control.right {
 		right: -80px;
 		width: 32px;
 		height: 102px;
-		background: url('/img/sprite-main-handhelds.png') 0 -3259px no-repeat
+		background: url('./../img/sprite-main-handhelds.png') 0 -3259px no-repeat
 	}
 
 	.do-block .carousel-indicators {
@@ -2672,14 +2672,14 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: 0;
 		width: 460px;
 		height: 654px;
-		background: url('/img/sprite-main-wide-screens.png') 0 0 no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 0 no-repeat
 	}
 
 	.do-block:after {
 		right: 0;
 		width: 402px;
 		height: 715px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -659px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -659px no-repeat
 	}
 
 	.do-block .wrapper1 {
@@ -2708,7 +2708,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		margin-left: 85px;
 		width: 312px;
 		height: 531px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -2851px no-repeat;
+		background: url('./../img/sprite-main-wide-screens.png') 0 -2851px no-repeat;
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
@@ -2741,14 +2741,14 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: -120px;
 		width: 37px;
 		height: 119px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -3764px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -3764px no-repeat
 	}
 
 	.do-block .carousel-control.right {
 		right: -120px;
 		width: 37px;
 		height: 119px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -3888px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -3888px no-repeat
 	}
 
 	.do-block.de .wrapper1 {
@@ -2824,7 +2824,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.do-block-lpa .cell {
 		width: 516px;
 		height: 877px;
-		background: url('/img/sprite-main-handhelds') 0 -612px no-repeat;
+		background: url('./../img/sprite-main-handhelds') 0 -612px no-repeat;
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
@@ -2857,14 +2857,14 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: -80px;
 		width: 32px;
 		height: 102px;
-		background: url('/img/sprite-main-handhelds') 0 -3152px no-repeat
+		background: url('./../img/sprite-main-handhelds') 0 -3152px no-repeat
 	}
 
 	.do-block-lpa .carousel-control.right {
 		right: -80px;
 		width: 32px;
 		height: 102px;
-		background: url('/img/sprite-main-handhelds') 0 -3259px no-repeat
+		background: url('./../img/sprite-main-handhelds') 0 -3259px no-repeat
 	}
 
 	.do-block-lpa .carousel-indicators {
@@ -2919,14 +2919,14 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: 0;
 		width: 460px;
 		height: 654px;
-		background: url('/img/sprite-main-wide-screens.png') 0 0 no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 0 no-repeat
 	}
 
 	.do-block-lpa:after {
 		right: 0;
 		width: 402px;
 		height: 715px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -659px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -659px no-repeat
 	}
 
 	.do-block-lpa .wrapper1 {
@@ -2963,7 +2963,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		margin-left: 85px;
 		width: 312px;
 		height: 531px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -2851px no-repeat;
+		background: url('./../img/sprite-main-wide-screens.png') 0 -2851px no-repeat;
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
@@ -2996,14 +2996,14 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: -120px;
 		width: 37px;
 		height: 119px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -3764px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -3764px no-repeat
 	}
 
 	.do-block-lpa .carousel-control.right {
 		right: -120px;
 		width: 37px;
 		height: 119px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -3888px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -3888px no-repeat
 	}
 }
 
@@ -3281,7 +3281,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.press-about-us-block .product-hunt a {
 		width: 269px;
 		height: 64px;
-		background: url('/img/sprite-press-about-us-handhelds.png') 0 -131px no-repeat
+		background: url('./../img/sprite-press-about-us-handhelds.png') 0 -131px no-repeat
 	}
 }
 
@@ -3289,7 +3289,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.press-about-us-block .product-hunt a {
 		width: 169px;
 		height: 40px;
-		background: url('/img/sprite-press-about-us-wide-screens.png') 0 -45px no-repeat
+		background: url('./../img/sprite-press-about-us-wide-screens.png') 0 -45px no-repeat
 	}
 }
 
@@ -3297,7 +3297,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.press-about-us-block .tech-co a {
 		width: 154px;
 		height: 51px;
-		background: url('/img/sprite-press-about-us-handhelds.png') 0 -200px no-repeat
+		background: url('./../img/sprite-press-about-us-handhelds.png') 0 -200px no-repeat
 	}
 }
 
@@ -3305,7 +3305,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.press-about-us-block .tech-co a {
 		width: 96px;
 		height: 32px;
-		background: url('/img/sprite-press-about-us-wide-screens.png') 0 -123px no-repeat
+		background: url('./../img/sprite-press-about-us-wide-screens.png') 0 -123px no-repeat
 	}
 }
 
@@ -3313,7 +3313,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.press-about-us-block .next a {
 		width: 156px;
 		height: 76px;
-		background: url('/img/sprite-press-about-us-handhelds.png') 0 0 no-repeat
+		background: url('./../img/sprite-press-about-us-handhelds.png') 0 0 no-repeat
 	}
 }
 
@@ -3321,7 +3321,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.press-about-us-block .next a {
 		width: 83px;
 		height: 40px;
-		background: url('/img/sprite-press-about-us-wide-screens.png') 0 0 no-repeat
+		background: url('./../img/sprite-press-about-us-wide-screens.png') 0 0 no-repeat
 	}
 }
 
@@ -3329,7 +3329,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.press-about-us-block .forbes a {
 		width: 176px;
 		height: 45px;
-		background: url('/img/sprite-press-about-us-handhelds.png') 0 -81px no-repeat
+		background: url('./../img/sprite-press-about-us-handhelds.png') 0 -81px no-repeat
 	}
 }
 
@@ -3337,7 +3337,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.press-about-us-block .forbes a {
 		width: 110px;
 		height: 28px;
-		background: url('/img/sprite-press-about-us-wide-screens.png') 0 -90px no-repeat
+		background: url('./../img/sprite-press-about-us-wide-screens.png') 0 -90px no-repeat
 	}
 }
 
@@ -3517,7 +3517,7 @@ body.s-DE .phone-block .input-wrapper::after {
 }
 
 .rate-block.rs .rating-bg li {
-	background: url('/img/sprite-rs@2x.png') no-repeat;
+	background: url('./../img/sprite-rs@2x.png') no-repeat;
 	background-size: 100px 147px;
 	background-position: 0 -68px;
 	height: 22.5px;
@@ -3528,7 +3528,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.rate-block.rs .rating-bg li {
 		width: 47px;
 		height: 45px;
-		background: url('/img/sprite-rs-mobile@2x.png') 0 -120px no-repeat
+		background: url('./../img/sprite-rs-mobile@2x.png') 0 -120px no-repeat
 	}
 }
 
@@ -3543,7 +3543,7 @@ body.s-DE .phone-block .input-wrapper::after {
 }
 
 .rate-block.rs .rating-front li {
-	background: url('/img/sprite-rs@2x.png') no-repeat;
+	background: url('./../img/sprite-rs@2x.png') no-repeat;
 	background-size: 100px 147px;
 	background-position: 0 -96px;
 	height: 22.5px;
@@ -3554,7 +3554,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.rate-block.rs .rating-front li {
 		width: 47px;
 		height: 45px;
-		background: url('/img/sprite-rs-mobile@2x.png') 0 -175px no-repeat
+		background: url('./../img/sprite-rs-mobile@2x.png') 0 -175px no-repeat
 	}
 }
 
@@ -3646,7 +3646,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.rate-block .rating-front li {
 		width: 54px;
 		height: 52px;
-		background: url('/img/sprite-main-handhelds.png') 0 -3580px no-repeat
+		background: url('./../img/sprite-main-handhelds.png') 0 -3580px no-repeat
 	}
 
 	.rate-block .rating-bg li:not(:first-child),
@@ -3685,7 +3685,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.rate-block .rating-front li {
 		width: 35px;
 		height: 33px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -4362px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -4362px no-repeat
 	}
 
 	.rate-block .rating-bg li:not(:first-child),
@@ -3831,14 +3831,14 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: -60px;
 		width: 32px;
 		height: 102px;
-		background: url('/img/sprite-main-handhelds') 0 -3366px no-repeat
+		background: url('./../img/sprite-main-handhelds') 0 -3366px no-repeat
 	}
 
 	.testimonial-block .slider2 .carousel-control.right {
 		right: -60px;
 		width: 32px;
 		height: 102px;
-		background: url('/img/sprite-main-handhelds') 0 -3473px no-repeat
+		background: url('./../img/sprite-main-handhelds') 0 -3473px no-repeat
 	}
 
 	.testimonial-block .slider2 .carousel-inner {
@@ -3928,14 +3928,14 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: -100px;
 		width: 32px;
 		height: 102px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -4114px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -4114px no-repeat
 	}
 
 	.testimonial-block .slider2 .carousel-control.right {
 		right: -100px;
 		width: 32px;
 		height: 102px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -4221px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -4221px no-repeat
 	}
 
 	.testimonial-block .slider2 .carousel-inner {
@@ -4155,7 +4155,7 @@ body.s-DE .phone-block .input-wrapper::after {
 }
 
 .testimonial-block.rs .testimonial-list .testimonial-list-item-star:after {
-	background: url('/img/sprite-rs@2x.png') no-repeat;
+	background: url('./../img/sprite-rs@2x.png') no-repeat;
 	background-size: 100px 147px;
 	background-position: 0 -138px;
 	height: 9.5px;
@@ -4171,7 +4171,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.testimonial-block.rs .testimonial-list .testimonial-list-item-star:after {
 		width: 20px;
 		height: 19px;
-		background: url('/img/sprite-rs-mobile@2x.png') 0 -262px no-repeat;
+		background: url('./../img/sprite-rs-mobile@2x.png') 0 -262px no-repeat;
 		top: 7px;
 		right: 12px
 	}
@@ -4217,7 +4217,7 @@ body.s-DE .phone-block .input-wrapper::after {
 }
 
 .testimonial-block.rs .testimonial-list .testimonial-list-item-user-info-bottom:after {
-	background: url('/img/sprite-rs@2x.png') no-repeat;
+	background: url('./../img/sprite-rs@2x.png') no-repeat;
 	background-size: 100px 147px;
 	background-position: 0 -123px;
 	height: 9.5px;
@@ -4233,7 +4233,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.testimonial-block.rs .testimonial-list .testimonial-list-item-user-info-bottom:after {
 		width: 22px;
 		height: 22px;
-		background: url('/img/sprite-rs-mobile@2x.png') 0 -230px no-repeat;
+		background: url('./../img/sprite-rs-mobile@2x.png') 0 -230px no-repeat;
 		top: 6px;
 		right: -52px
 	}
@@ -4293,7 +4293,7 @@ body.s-DE .phone-block .input-wrapper::after {
 }
 
 .testimonial-block.rs .more-reviews .more-reviews__link.fb-link {
-	background: url('/img/sprite-rs@2x.png') no-repeat;
+	background: url('./../img/sprite-rs@2x.png') no-repeat;
 	background-size: 100px 147px;
 	background-position: 0 0;
 	height: 21.5px;
@@ -4305,13 +4305,13 @@ body.s-DE .phone-block .input-wrapper::after {
 	.testimonial-block.rs .more-reviews .more-reviews__link.fb-link {
 		width: 172px;
 		height: 37px;
-		background: url('/img/sprite-rs-mobile@2x.png') 0 0 no-repeat;
+		background: url('./../img/sprite-rs-mobile@2x.png') 0 0 no-repeat;
 		margin-bottom: 0
 	}
 }
 
 .testimonial-block.rs .more-reviews .more-reviews__link.sj-link {
-	background: url('/img/sprite-rs@2x.png') no-repeat;
+	background: url('./../img/sprite-rs@2x.png') no-repeat;
 	background-size: 100px 147px;
 	background-position: 0 -27px;
 	height: 36.5px;
@@ -4323,7 +4323,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.testimonial-block.rs .more-reviews .more-reviews__link.sj-link {
 		width: 151px;
 		height: 63px;
-		background: url('/img/sprite-rs-mobile@2x.png') 0 -47px no-repeat;
+		background: url('./../img/sprite-rs-mobile@2x.png') 0 -47px no-repeat;
 		margin-bottom: -6px
 	}
 }
@@ -4484,7 +4484,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		display: inline-block;
 		width: 31px;
 		height: 20px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -4437px no-repeat;
+		background: url('./../img/sprite-main-wide-screens.png') 0 -4437px no-repeat;
 		vertical-align: middle;
 		margin-right: 0.6em
 	}
@@ -4562,7 +4562,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		display: inline-block;
 		width: 31px;
 		height: 20px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -4437px no-repeat;
+		background: url('./../img/sprite-main-wide-screens.png') 0 -4437px no-repeat;
 		vertical-align: middle;
 		margin-right: 0.6em
 	}
@@ -4595,7 +4595,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		display: block;
 		width: 88px;
 		height: 88px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -3420px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -3420px no-repeat
 	}
 }
 
@@ -4712,7 +4712,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: 37px;
 		width: 33px;
 		height: 66px;
-		background: url('/img/sprite-main-handhelds') 0 -3678px no-repeat
+		background: url('./../img/sprite-main-handhelds') 0 -3678px no-repeat
 	}
 
 	.thank-you-block1b .social li.whatsapp a {
@@ -4729,7 +4729,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: 22px;
 		width: 66px;
 		height: 66px;
-		background: url('/img/sprite-main-handhelds') 0 -2999px no-repeat
+		background: url('./../img/sprite-main-handhelds') 0 -2999px no-repeat
 	}
 
 	.thank-you-block1b .social li:not(:first-child) {
@@ -4795,7 +4795,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: 19px;
 		width: 15px;
 		height: 31px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -4462px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -4462px no-repeat
 	}
 
 	.thank-you-block1b .social li.whatsapp {
@@ -4817,7 +4817,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		display: inline-block;
 		width: 365px;
 		height: 352px;
-		background: url('/img/sprite-main-handhelds') 0 0 no-repeat
+		background: url('./../img/sprite-main-handhelds') 0 0 no-repeat
 	}
 }
 
@@ -4832,7 +4832,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		display: block;
 		width: 238px;
 		height: 229px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -1998px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -1998px no-repeat
 	}
 }
 
@@ -4942,7 +4942,7 @@ body.s-DE .phone-block .input-wrapper::after {
 
 @media only screen and (max-device-width: 1198px) {
 	.blurry-block {
-		background: url('/img/blurry-bg-handhelds.png') center repeat
+		background: url('./../img/blurry-bg-handhelds.png') center repeat
 	}
 
 	.blurry-block.type1 .title span,
@@ -5061,7 +5061,7 @@ body.s-DE .phone-block .input-wrapper::after {
 
 @media only screen and (min-device-width: 1199px) {
 	.blurry-block {
-		background: url('/img/blurry-bg-new.png') top repeat
+		background: url('./../img/blurry-bg-new.png') top repeat
 	}
 
 	.blurry-block.type2 {
@@ -5389,14 +5389,14 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: 270px;
 		width: 36px;
 		height: 37px;
-		background: url('/img/sprite-faq-handhelds-s218a460909.png') 0 -83px no-repeat
+		background: url('./../img/sprite-faq-handhelds-s218a460909.png') 0 -83px no-repeat
 	}
 
 	.faq-block .accordion .accordion-inner .close-btn {
 		float: left;
 		width: 78px;
 		height: 78px;
-		background: url('/img/sprite-faq-handhelds-s218a460909.png') 0 0 no-repeat;
+		background: url('./../img/sprite-faq-handhelds-s218a460909.png') 0 0 no-repeat;
 		margin-right: 35px;
 		overflow: hidden;
 		text-indent: -999em
@@ -5500,7 +5500,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		top: 69px;
 		width: 21px;
 		height: 22px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -4498px no-repeat;
+		background: url('./../img/sprite-main-wide-screens.png') 0 -4498px no-repeat;
 		z-index: 100;
 		left: 45%
 	}
@@ -5549,7 +5549,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		float: left;
 		width: 57px;
 		height: 57px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -3640px no-repeat;
+		background: url('./../img/sprite-main-wide-screens.png') 0 -3640px no-repeat;
 		margin-right: 20px;
 		overflow: hidden;
 		text-indent: -999em
@@ -5558,7 +5558,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.faq-block .close-btn:hover {
 		width: 57px;
 		height: 57px;
-		background: url('/img/sprite-main-wide-screens.png') 0 -3702px no-repeat
+		background: url('./../img/sprite-main-wide-screens.png') 0 -3702px no-repeat
 	}
 }
 
@@ -5608,7 +5608,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.footer-base:before {
 		top: -15px;
 		height: 15px;
-		background: url('/img/wave.png') repeat-x
+		background: url('./../img/wave.png') repeat-x
 	}
 
 	.footer-base .footer-block1 {
@@ -5638,7 +5638,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.footer-base:before {
 		top: -8px;
 		height: 8px;
-		background: url('/img/wave-sm.png') repeat-x
+		background: url('./../img/wave-sm.png') repeat-x
 	}
 
 	.footer-base .footer-block1 {
@@ -6059,7 +6059,7 @@ body.s-DE .phone-block .input-wrapper::after {
 
 @media only screen and (min-device-width: 1199px) {
 	.desktop-bg {
-		background-image: url('/img/bg-desktop-left.png'), url('/img/bg-desktop-right.png');
+		background-image: url('./../img/bg-desktop-left.png'), url('./../img/bg-desktop-right.png');
 		background-position: left top, right top;
 		background-repeat: no-repeat
 	}
@@ -6182,14 +6182,14 @@ body.s-DE .phone-block .input-wrapper::after {
 	.subscription-handhelds-table2 .disabled {
 		width: 31px;
 		height: 31px;
-		background: url('/img/sprite-subscription-handhelds.png') 0 -1061px no-repeat
+		background: url('./../img/sprite-subscription-handhelds.png') 0 -1061px no-repeat
 	}
 
 	.subscription-handhelds-table1 .enabled,
 	.subscription-handhelds-table2 .enabled {
 		width: 41px;
 		height: 32px;
-		background: url('/img/sprite-subscription-handhelds.png') 0 -994px no-repeat
+		background: url('./../img/sprite-subscription-handhelds.png') 0 -994px no-repeat
 	}
 
 	.subscription-handhelds-table1 {
@@ -6310,13 +6310,13 @@ body.s-DE .phone-block .input-wrapper::after {
 	.disabled {
 		width: 16px;
 		height: 16px;
-		background: url('/img/sprite-subscription-wide-screens.png') 0 -544px no-repeat
+		background: url('./../img/sprite-subscription-wide-screens.png') 0 -544px no-repeat
 	}
 
 	.enabled {
 		width: 21px;
 		height: 16px;
-		background: url('/img/sprite-subscription-wide-screens.png') 0 -523px no-repeat
+		background: url('./../img/sprite-subscription-wide-screens.png') 0 -523px no-repeat
 	}
 
 	.subscription-subtitle2 {
@@ -6368,7 +6368,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: -5px;
 		width: 51px;
 		height: 25px;
-		background: url('/img/sprite-subscription-handhelds.png') 0 -1031px no-repeat
+		background: url('./../img/sprite-subscription-handhelds.png') 0 -1031px no-repeat
 	}
 }
 
@@ -6779,7 +6779,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.subscription-slider .testimonial-msg {
 		width: 579px;
 		height: 258px;
-		background: url('/img/sprite-subscription-handhelds.png') 0 -563px no-repeat;
+		background: url('./../img/sprite-subscription-handhelds.png') 0 -563px no-repeat;
 		font: 36px/50px "rockwell", serif;
 		padding: 30px
 	}
@@ -6789,7 +6789,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.subscription-slider .testimonial-msg {
 		width: 475px;
 		height: 117px;
-		background: url('/img/sprite-subscription-wide-screens.png') 0 -354px no-repeat;
+		background: url('./../img/sprite-subscription-wide-screens.png') 0 -354px no-repeat;
 		font: 18px/27px "rockwell", serif;
 		padding: 15px 30px;
 		margin-left: 115px;
@@ -6828,7 +6828,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: 0;
 		width: 85px;
 		height: 84px;
-		background: url('/img/sprite-subscription-handhelds.png') 0 -826px no-repeat
+		background: url('./../img/sprite-subscription-handhelds.png') 0 -826px no-repeat
 	}
 }
 
@@ -6844,7 +6844,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: 0;
 		width: 43px;
 		height: 42px;
-		background: url('/img/sprite-subscription-wide-screens.png') 0 -476px no-repeat
+		background: url('./../img/sprite-subscription-wide-screens.png') 0 -476px no-repeat
 	}
 
 	.subscription-slider .msg-author-block .msg-type {
@@ -7064,7 +7064,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.choice-block .choice-item1 li {
 		width: 88px;
 		height: 132px;
-		background: url('/img/sprite-subscription-handhelds.png') 0 -426px no-repeat
+		background: url('./../img/sprite-subscription-handhelds.png') 0 -426px no-repeat
 	}
 
 	.choice-block .choice-item1 li:not(:first-child) {
@@ -7086,7 +7086,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.choice-block .choice-item1 li {
 		width: 44px;
 		height: 66px;
-		background: url('/img/sprite-subscription-wide-screens.png') 0 -283px no-repeat
+		background: url('./../img/sprite-subscription-wide-screens.png') 0 -283px no-repeat
 	}
 
 	.choice-block .choice-item1 li:not(:first-child) {
@@ -7106,7 +7106,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.choice-block .choice-item2 .choice-item-icon {
 		width: 156px;
 		height: 183px;
-		background: url('/img/sprite-subscription-handhelds.png') 0 0 no-repeat;
+		background: url('./../img/sprite-subscription-handhelds.png') 0 0 no-repeat;
 		margin-bottom: 10px
 	}
 }
@@ -7120,7 +7120,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.choice-block .choice-item2 .choice-item-icon {
 		width: 78px;
 		height: 92px;
-		background: url('/img/sprite-subscription-wide-screens.png') 0 -44px no-repeat;
+		background: url('./../img/sprite-subscription-wide-screens.png') 0 -44px no-repeat;
 		margin-bottom: 14px
 	}
 }
@@ -7215,7 +7215,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.i-pity {
 		width: 284px;
 		height: 233px;
-		background: url('/img/sprite-subscription-handhelds.png') 0 -188px no-repeat;
+		background: url('./../img/sprite-subscription-handhelds.png') 0 -188px no-repeat;
 		margin-top: 40px;
 		margin-bottom: 50px
 	}
@@ -7225,7 +7225,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	.i-pity {
 		width: 167px;
 		height: 137px;
-		background: url('/img/sprite-subscription-wide-screens.png') 0 -141px no-repeat;
+		background: url('./../img/sprite-subscription-wide-screens.png') 0 -141px no-repeat;
 		margin-top: 25px;
 		margin-bottom: 35px
 	}
@@ -7330,7 +7330,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		display: inline-block;
 		width: 17px;
 		height: 14px;
-		background: url('/img/sprite-subscription-wide-screens.png') 0 -565px no-repeat;
+		background: url('./../img/sprite-subscription-wide-screens.png') 0 -565px no-repeat;
 		padding-right: 10px
 	}
 }
@@ -7399,7 +7399,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	right: -24px;
 	width: 47px;
 	height: 47px;
-	background: url('/img/sprite-main.png') 0 -234px no-repeat;
+	background: url('./../img/sprite-main.png') 0 -234px no-repeat;
 	-webkit-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.24);
 	-moz-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.24);
 	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.24);
@@ -7416,13 +7416,13 @@ body.s-DE .phone-block .input-wrapper::after {
 .modal .modal_window .modal_img.sms {
 	width: 229px;
 	height: 229px;
-	background: url('/img/sprite-main.png') 0 0 no-repeat
+	background: url('./../img/sprite-main.png') 0 0 no-repeat
 }
 
 .modal .modal_window .modal_img.letter {
 	width: 192px;
 	height: 133px;
-	background: url('/img/sprite-become-a-nerd-wide-screens.png') 0 -1940px no-repeat;
+	background: url('./../img/sprite-become-a-nerd-wide-screens.png') 0 -1940px no-repeat;
 	margin-top: 15px
 }
 
@@ -7465,7 +7465,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	display: inline-block;
 	width: 56px;
 	height: 20px;
-	background: url('/img/sprite-main-wide-screens.png') 0 -4051px no-repeat;
+	background: url('./../img/sprite-main-wide-screens.png') 0 -4051px no-repeat;
 	overflow: hidden;
 	text-indent: -999em;
 	margin-top: 30px
@@ -7515,7 +7515,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	left: 23px;
 	width: 24px;
 	height: 49px;
-	background: url('/img/sprite-main.png') 0 -340px no-repeat
+	background: url('./../img/sprite-main.png') 0 -340px no-repeat
 }
 
 .modal .social li.whatsapp a {
@@ -7532,7 +7532,7 @@ body.s-DE .phone-block .input-wrapper::after {
 	left: 11px;
 	width: 49px;
 	height: 49px;
-	background: url('/img/sprite-main.png') 0 -286px no-repeat
+	background: url('./../img/sprite-main.png') 0 -286px no-repeat
 }
 
 .modal .social li:not(:first-child) {
@@ -8219,13 +8219,13 @@ body.s-DE .phone-block .input-wrapper::after {
 	.footer-main .social li.fb a {
 		width: 105px;
 		height: 106px;
-		background: url('/img/sprite-main-footer-handhelds.png') 0 -421px no-repeat
+		background: url('./../img/sprite-main-footer-handhelds.png') 0 -421px no-repeat
 	}
 }
 
 @media only screen and (min-device-width: 1199px) {
 	.footer-main .social li.fb a {
-		background: url('/img/i-fb2.png?1440068357&f20c9c743bf6') no-repeat;
+		background: url('./../img/i-fb2.png?1440068357&f20c9c743bf6') no-repeat;
 		background-size: 100% auto
 	}
 }
@@ -8234,13 +8234,13 @@ body.s-DE .phone-block .input-wrapper::after {
 	.footer-main .social li.twitter a {
 		width: 105px;
 		height: 106px;
-		background: url('/img/sprite-main-footer-handhelds.png') 0 -310px no-repeat
+		background: url('./../img/sprite-main-footer-handhelds.png') 0 -310px no-repeat
 	}
 }
 
 @media only screen and (min-device-width: 1199px) {
 	.footer-main .social li.twitter a {
-		background: url('/img/i-twitter2.png') no-repeat;
+		background: url('./../img/i-twitter2.png') no-repeat;
 		background-size: 100% auto
 	}
 }
@@ -8278,7 +8278,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		float: right;
 		width: 359px;
 		height: 73px;
-		background: url('/img/2x-wide-screen/mcafee-en.png');
+		background: url('./../img/2x-wide-screen/mcafee-en.png');
 		background-size: 100% auto
 	}
 }
@@ -8289,7 +8289,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		display: inline-block;
 		width: 577px;
 		height: 110px;
-		background: url('/img/sprite-main-footer-handhelds.png') 0 0 no-repeat
+		background: url('./../img/sprite-main-footer-handhelds.png') 0 0 no-repeat
 	}
 }
 
@@ -8307,7 +8307,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		margin-top: 9px;
 		width: 365px;
 		height: 57px;
-		background: url('/img/2x-wide-screen/master-card.png');
+		background: url('./../img/2x-wide-screen/master-card.png');
 		background-size: 100% auto
 	}
 }
@@ -8318,7 +8318,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		display: inline-block;
 		width: 590px;
 		height: 190px;
-		background: url('/img/sprite-main-footer-handhelds.png') 0 -115px no-repeat
+		background: url('./../img/sprite-main-footer-handhelds.png') 0 -115px no-repeat
 	}
 }
 
@@ -8338,7 +8338,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		left: 0;
 		top: -15px;
 		height: 15px;
-		background: url('/img/wave2big.png') repeat-x
+		background: url('./../img/wave2big.png') repeat-x
 	}
 }
 
@@ -8456,7 +8456,7 @@ body.s-DE .phone-block .input-wrapper::after {
 		width: 100%;
 		left: 0;
 		bottom: 0;
-		background: url('/img/wave2.png') repeat-x;
+		background: url('./../img/wave2.png') repeat-x;
 		height: 28px
 	}
 }
@@ -8465,13 +8465,13 @@ body.s-DE .phone-block .input-wrapper::after {
 	.footer-main.de .mccafee:after {
 		width: 577px;
 		height: 110px;
-		background: url('/img/sprite-main-handhelds.png') 0 -357px no-repeat
+		background: url('./../img/sprite-main-handhelds.png') 0 -357px no-repeat
 	}
 }
 
 @media only screen and (min-device-width: 1199px) {
 	.footer-main.de .mccafee {
-		background: url('/img/2x-wide-screen/mcafee-de.png');
+		background: url('./../img/2x-wide-screen/mcafee-de.png');
 		background-size: 100% auto
 	}
 }
@@ -8729,7 +8729,7 @@ body.s-DE .phone-block .input-wrapper::after {
 @media only screen and (max-device-width: 1198px) {
 	.hp-new-header .hp-new-header-top {
 		height: 1137px;
-		background: url('/img/landing/lp-ga/top-bg-mob.opt.jpg') center top;
+		background: url('./../img/landing/lp-ga/top-bg-mob.opt.jpg') center top;
 		background-size: cover;
 		position: relative
 	}
@@ -8738,7 +8738,7 @@ body.s-DE .phone-block .input-wrapper::after {
 @media only screen and (min-device-width: 1199px) {
 	.hp-new-header .hp-new-header-top {
 		height: 768px;
-		background: url('/img/landing/lp-ga/top-bg-desk.jpg') center top;
+		background: url('./../img/landing/lp-ga/top-bg-desk.jpg') center top;
 		background-size: cover
 	}
 
@@ -9645,7 +9645,7 @@ body.s-DE .phone-block .input-wrapper::after {
 
 @media only screen and (max-device-width: 1198px) {
 	.personal-nerd-block .university-list {
-		background: url('/img/hp-new/spr-hand.png') 0 0 no-repeat;
+		background: url('./../img/hp-new/spr-hand.png') 0 0 no-repeat;
 		height: 186px;
 		width: 546px;
 		margin: 38px auto 68px
@@ -9659,7 +9659,7 @@ only screen and (max-device-width: 1198px) and (-o-min-device-pixel-ratio: 2 / 1
 only screen and (max-device-width: 1198px) and (min-device-pixel-ratio: 2),
 only screen and (max-device-width: 1198px) and (min-resolution: 2dppx) {
 	.personal-nerd-block .university-list {
-		background-image: url('/img/hp-new/spr-hand@2x.png');
+		background-image: url('./../img/hp-new/spr-hand@2x.png');
 		background-size: 546px 186px;
 		background-position: 0 0;
 		height: 186px;
@@ -9669,7 +9669,7 @@ only screen and (max-device-width: 1198px) and (min-resolution: 2dppx) {
 
 @media only screen and (min-device-width: 1199px) {
 	.personal-nerd-block .university-list {
-		background: url('/img/hp-new/spr-desk.png') 0 0 no-repeat;
+		background: url('./../img/hp-new/spr-desk.png') 0 0 no-repeat;
 		height: 60px;
 		width: 712px;
 		margin: 23px auto 35px
@@ -9683,7 +9683,7 @@ only screen and (min-device-width: 1199px) and (-o-min-device-pixel-ratio: 2 / 1
 only screen and (min-device-width: 1199px) and (min-device-pixel-ratio: 2),
 only screen and (min-device-width: 1199px) and (min-resolution: 2dppx) {
 	.personal-nerd-block .university-list {
-		background-image: url('/img/hp-new/spr-desk@2x.png');
+		background-image: url('./../img/hp-new/spr-desk@2x.png');
 		background-size: 712px 60px;
 		background-position: 0 0;
 		height: 60px;
@@ -10693,7 +10693,7 @@ only screen and (min-device-width: 1199px) and (min-resolution: 2dppx) {
 		top: 65px;
 		width: 290px;
 		height: 751px;
-		background: url('/img/landing/lp-ga/slider-bg1.png') no-repeat
+		background: url('./../img/landing/lp-ga/slider-bg1.png') no-repeat
 	}
 
 	.lp-ga-slider-block .lp-ga-slider-bg2 {
@@ -10701,7 +10701,7 @@ only screen and (min-device-width: 1199px) and (min-resolution: 2dppx) {
 		bottom: 0;
 		width: 305px;
 		height: 901px;
-		background: url('/img/landing/lp-ga/slider-bg2.png') no-repeat
+		background: url('./../img/landing/lp-ga/slider-bg2.png') no-repeat
 	}
 }
 
@@ -10978,7 +10978,7 @@ only screen and (min-device-width: 1199px) and (min-resolution: 2dppx) {
 		top: 0;
 		width: 290px;
 		height: 581px;
-		background: url('/img/hp-new/slider-bg1.png') no-repeat
+		background: url('./../img/hp-new/slider-bg1.png') no-repeat
 	}
 
 	.hp-new-slider-block .hp-new-slider-bg2 {
@@ -10986,7 +10986,7 @@ only screen and (min-device-width: 1199px) and (min-resolution: 2dppx) {
 		bottom: 0;
 		width: 364px;
 		height: 665px;
-		background: url('/img/hp-new/slider-bg2.png') no-repeat
+		background: url('./../img/hp-new/slider-bg2.png') no-repeat
 	}
 }
 
